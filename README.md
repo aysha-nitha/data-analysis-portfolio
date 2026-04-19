@@ -40,6 +40,8 @@ Results are visualized in the Tableau dashboard linked below.
 
 https://public.tableau.com/app/profile/aysha.nitha/vizzes
 
+![Electronics_Sales_Dashboard](Electronics_Sales_Dashboard.png)
+
 ## Key Insights
 
 * The data shows that the West region generates the highest revenue.
