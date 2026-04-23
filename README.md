@@ -44,14 +44,14 @@ https://public.tableau.com/app/profile/aysha.nitha/vizzes
 
 ## Key Insights
 
-• The West region generates the highest sales among all regions
-• Electronics is the top-performing category in both sales and profit
-• Sales peaked in 2023, followed by a slight decline in 2024
-• Monthly trends show a peak around May with relatively stable performance throughout the year
-• Cameras are the top-selling product category
+* The West region generates the highest sales among all regions.
+* Electronics is the top-performing category in both sales and profit.
+* Sales peaked in 2023, followed by a slight decline in 2024, while overall profit margin stands at 17.29%.
+* Monthly trends show a peak around May with relatively stable performance throughout the year.
+* Cameras are the top-selling product category.
 
 ## Conclusion
 
-
+This project demonstrates SQL analysis, data visualization, and business insight generation.
 
 
