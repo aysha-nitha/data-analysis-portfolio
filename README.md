@@ -44,15 +44,11 @@ https://public.tableau.com/app/profile/aysha.nitha/vizzes
 
 ## Key Insights
 
-* The data shows that the West region generates the highest revenue.
-
-* Among the three categories, Electronics demonstrates the highest sales and profit.
-
-* Total Revenue peaks in 2023 with 16.29 %, but in 2024 it slightly goes down by about 4.25 %.
-
-* From the monthly trends, it is clear that the revenue goes high in May, which may indicate the pre-summer sales. However, it maintains a steady state during the holiday season with very few changes in the revenue growth.
-
-* Cameras are the top-selling product.
+• The West region generates the highest sales among all regions
+• Electronics is the top-performing category in both sales and profit
+• Sales peaked in 2023, followed by a slight decline in 2024
+• Monthly trends show a peak around May with relatively stable performance throughout the year
+• Cameras are the top-selling product category
 
 ## Conclusion
 
