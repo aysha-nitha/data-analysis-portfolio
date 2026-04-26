@@ -5,7 +5,15 @@ Developed a portfolio site to showcase data analysis projects
 
 ## Project Overview
 
-This project analyses fictitious sales data for electronic products to identify key business insights, such as monthly trends, top-performing products, and regional performance.
+This project analyzes fictitious sales data for electronic products to identify key business insights, such as monthly trends, top-performing products, and regional performance, using SQL and Tableau for data visualization. It demonstrates how raw data can be transformed into actionable insights to support decision-making.
+
+## Objectives
+
+* Analyze overall sales and profit performance.
+* Identify top-performing regions and product categories.
+* Track yearly and monthly sales trends.
+* Discover high-performing products.
+* Evaluate profitability across products.
 
 ## Tools Used
 
@@ -15,24 +23,23 @@ This project analyses fictitious sales data for electronic products to identify 
 
 ## Dataset
 
-The dataset includes:
+* Sales transactions dataset (approx. 17K+ records)
+* Includes: Order Date, Region, Category, Product Name, Sales, Profit, Quantity
 
-* Order Date
-* Product Name
-* Category
-* Region
-* Quantity
-* Sales
-* Profit
+## SQL Analysis Highlights
 
-## Key Analysis
-
-* Monthly Trends
-* Yearly Sales
+* Data Cleaning
+* KPI Calculations (Revenue, Profit, Profit Margin)
 * Top Performing Products
 * Category Performance
 * Regional Performance
-* Profit Margin Analysis
+* Window functions (RANK, LAG for Year Over Year growth)
+* Trend analysis (monthly and yearly)
+* Pivot tables for advanced insights
+
+## SQL Queries
+
+https://github.com/aysha-nitha/data-analysis-portfolio
 
 ## Dashboard
 
